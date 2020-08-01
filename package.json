@@ -1,0 +1,12 @@
+{
+  "name": "BrainJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tnfssc <tnfssc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.11.0"
+  }
+}
