@@ -1,5 +1,3 @@
-const fn = () => {
-    return "Alloc"
-}
+const fn = () => "Alloc";
 
-console.log(fn())
+console.log(fn());
