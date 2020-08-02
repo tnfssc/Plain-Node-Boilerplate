@@ -1,0 +1,1 @@
+nodemon --exec "babel src --out-dir dist && node dist"

@@ -7,7 +7,9 @@
   "scripts": {
     "compile": "babel src --out-dir dist",
     "compileAndRun": "yarn compile && node dist",
-    "dev": "nodemon --exec yarn compileAndRun"
+    "dev": "./startdev.sh",
+    "pretty": "prettier --write .",
+    "lint": "eslint ."
   },
   "dependencies": {
     "core-js": "^3.6.5",
