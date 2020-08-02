@@ -1,3 +1,3 @@
 # Plain Node Boilerplate
 
-## created by *tnfssc*
+## created by _tnfssc_
